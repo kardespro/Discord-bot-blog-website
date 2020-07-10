@@ -1,1 +1,2 @@
-# Discord-bot-blog-website
+Link : [link](https://glitch.com/edit/#!/onlyblog)
+OnlyCode Dc [link](https://discord.gg/xykDmu)
